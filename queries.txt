@@ -1,0 +1,5 @@
+https://www.google.com/finance/historical?q=MAGN&startdate=Jan+01%2C+2010&enddate=Dec+31%2C+2016&output=csv
+
+https://www.google.com/finance/historical?q=MAGN
+
+https://www.google.com/finance/historical?q=tsla
